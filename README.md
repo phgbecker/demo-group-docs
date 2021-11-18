@@ -1,5 +1,4 @@
-# demo-group-docs
-Demo - GroupDocs.Conversion
+# POC GroupDocs.Conversion
 
 ### A Classificar Comando:
 * Build do pacote: gradle -b
@@ -13,3 +12,6 @@ Demo - GroupDocs.Conversion
 * JAVA: openjdk 11.0.10 2021-01-19
 * GroupDocs Conversion: 21.10
 * Docker image: adoptopenjdk/openjdk11-openj9:alpine-jre
+
+### GroupDocs.Conversion for Java
+* https://products.groupdocs.com/conversion/java/
